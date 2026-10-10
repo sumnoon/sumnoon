@@ -18,7 +18,7 @@ Lead Engineer at **Samsung R&D Institute Bangladesh**, working on the **SmartThi
 | [**smallworld-agents**](https://github.com/sumnoon/smallworld-agents) | A playable isometric town of AI agents with persistent memories, running on local Ollama models. |
 
 ### Tech
-C# · C++ · UWP · WinUI 3 · Unity · Godot · D3D12 · TypeScript · Python
+C# · C++ · UWP · WinUI 3 · Unity · Godot · Python
 
 ### Elsewhere
 [LinkedIn](https://www.linkedin.com/in/sumnoon-ibn-ahmad) · B.Sc. in Computer Science, CUET
