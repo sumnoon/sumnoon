@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Sumnoon 👋
 
-<!--
-**sumnoon/sumnoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Engineer at **Samsung R&D Institute Bangladesh**, working on the **SmartThings app for Windows** since 2019. I like problems where an app has to talk to an engine: rendering, interop and the plumbing in between.
 
-Here are some ideas to get you started:
+**At Samsung** (closed source)
+- Lead the **MapView module**: real-time 2D and 3D spatial visualization of the smart home and its devices
+- Built a native **C# communication layer between Unity and UWP**, and a **native Godot integration for UWP**
+- Previously owned the **Connectivity module**, which enables Find for Galaxy devices while the PC is in Modern Standby
+- Co-inventor on **two patent applications** published by the Korean Intellectual Property Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+| Project | What it is |
+| --- | --- |
+| [**godot-uwp**](https://github.com/sumnoon/godot-uwp) | Run the Godot Engine in-process inside a UWP app, rendering into a XAML `SwapChainPanel` through D3D12. Includes a C# host sample. |
+| [**StackBloom**](https://github.com/sumnoon/StackBloom) | Step through a C++ program and watch its recursion tree, call stack and heap pointers grow. Built for learning recursion and DP. |
+| [**Packets in Motion**](https://github.com/sumnoon/Packets-in-Motion) | System design taught through animation: 45 lessons from packets to Raft consensus, each with a hands-on challenge. [Try it →](https://sumnoon.github.io/Packets-in-Motion/) |
+| [**smallworld-agents**](https://github.com/sumnoon/smallworld-agents) | A playable isometric town of AI agents with persistent memories, running on local Ollama models. |
+
+### Tech
+C# · C++ · UWP · WinUI 3 · Unity · Godot · D3D12 · TypeScript · Python
+
+### Elsewhere
+[LinkedIn](https://www.linkedin.com/in/sumnoon-ibn-ahmad) · B.Sc. in Computer Science, CUET
